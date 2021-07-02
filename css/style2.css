@@ -1,0 +1,359 @@
+    body {
+        background-image: url(https://recursos.edicoescnbb.com.br//i/Hotsite/Loja/imagens/backgroundbody2.png);
+        background-size: cover;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    .container {
+        width: 100%;
+        max-width: 100%;
+        background-color: #009cdf6e;
+    }
+    
+    .container0 {
+        width: 100%;
+        max-width: 1440px;
+        margin: 0 auto;
+    }
+    
+    .container1 {
+        width: 100%;
+        max-width: 1440px;
+        margin: 0 auto;
+    }
+    
+    .container2 {
+        width: 100%;
+        max-width: 1440px;
+        margin: 0 auto;
+    }
+    
+    .banner-principal img {
+        width: 100%;
+    }
+    
+    .barranome {
+        align-items: center;
+        color: #FFF;
+        font-size: 24px;
+        height: 100px;
+    }
+    
+    .barranome h1 {
+        margin: 0;
+        padding: 15px;
+    }
+    
+    .barratraco {
+        width: 100%;
+        max-width: 800px;
+        height: 2px;
+        background-color: #FFF;
+    }
+    
+    .area1 {
+        display: flex;
+    }
+    
+    .area1 a {
+        text-decoration: none;
+        color: #3b81a3;
+    }
+    
+    .area1 a:hover {
+        color: gold;
+        transform: scale(1.1);
+    }
+    
+    .area1-2 a {
+        text-decoration: none;
+        color: #FFF;
+    }
+    
+    .area1-2 a:hover {
+        color: gold;
+        transform: scale(1.1);
+    }
+    
+    .areamapa {
+        margin-bottom: 150px;
+        padding: 10px;
+    }
+    
+    .areatexto1 {
+        color: #3b81a3;
+        flex: 1;
+    }
+    
+    .areatexto1 p {
+        font-size: 18px;
+    }
+    
+    .texto1 {
+        font-size: 24px;
+    }
+    
+    .texto1 h2 {
+        margin-bottom: 5px;
+    }
+    
+    .areatexto2 {
+        color: #FFF;
+        flex: 1;
+    }
+    
+    .areatexto2 p {
+        font-size: 18px;
+    }
+    
+    .tracotexto {
+        width: 100%;
+        max-width: 400px;
+        height: 2px;
+        background-color: #3b81a3;
+    }
+    
+    .tracotexto2 {
+        width: 100%;
+        max-width: 400px;
+        height: 2px;
+        background-color: #FFF;
+    }
+    
+    .telefone1 img,
+    .telefone2 img {
+        max-width: 20px;
+        margin-right: 5px;
+    }
+    
+    .telefone1,
+    .telefone2 {
+        display: flex;
+        margin-bottom: 15px;
+    }
+    
+    .areaimagem1 {
+        flex: 1;
+        text-align: center;
+        margin-top: 60px;
+    }
+    
+    .area--video {
+        padding: 5px;
+        margin-bottom: 30px;
+    }
+    
+    .imagensloja1 img {
+        width: 100%;
+        max-width: 210px;
+        height: 199px;
+        margin: 3px;
+        padding: 4px;
+        border: 1px solid #3b81a3;
+        border-radius: 4%;
+    }
+    
+    .imagensloja1 img:hover {
+        transform: scale(1.5);
+        border-radius: 50px;
+    }
+    
+    .imagensloja1 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .imagensloja2 img {
+        width: 100%;
+        max-width: 210px;
+        height: 199px;
+        margin: 3px;
+        padding: 4px;
+        border: 1px solid #FFF;
+        border-radius: 4%;
+    }
+    
+    .imagensloja2 img:hover {
+        transform: scale(1.5);
+        border-radius: 50px;
+    }
+    
+    .imagensloja2 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .areamapa1 {
+        flex: 1;
+    }
+    
+    .areamapa h2 {
+        color: #3b81a3;
+        margin-top: 0px;
+    }
+    
+    .areamapa img {
+        max-width: 30px;
+    }
+    
+    .areamapa2 h2 {
+        color: #FFF;
+    }
+    
+    .areamapa2 img {
+        max-width: 30px;
+    }
+    
+    .container--footer {
+        height: 130px;
+        width: 100%;
+    }
+    
+    .footer {
+        display: flex;
+        justify-content: space-between;
+        color: #FFF;
+        max-width: 1440px;
+        margin: 0 auto;
+    }
+    
+    .redes--sociais h2 {
+        margin-bottom: 5px;
+    }
+    
+    .barra {
+        width: 100px;
+        height: 1px;
+        background-color: gold;
+    }
+    
+    .barrafinal {
+        width: 100%;
+        max-width: 100%;
+        height: 1px;
+        background-color: #FFF;
+    }
+    
+    .icones--redes {
+        display: flex;
+        align-items: center;
+    }
+    
+    .icones--redes img {
+        width: 40px;
+        padding: 10px 5px;
+    }
+    
+    .icones--redes a {
+        text-decoration: none;
+    }
+    
+    .pagina--site {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .pagina--site h2 {
+        margin-bottom: 5px;
+    }
+    
+    .pagina--site a {
+        margin-top: 10px;
+        padding: 10px;
+        border: 1px solid #FFF;
+        border-radius: 5px;
+        color: #FFF;
+    }
+    
+    .pagina--site a:hover {
+        color: gold;
+    }
+    
+    .corpy {
+        display: flex;
+        font-size: 13px;
+        justify-content: center;
+        align-items: center;
+        color: #FFF;
+        height: 40px;
+        margin: auto;
+    }
+    
+    @media (max-width:1440px) {
+        .areatexto1,
+        .areatexto2 {
+            padding: 20px;
+        }
+        .footer {
+            padding-right: 20px;
+            padding-left: 20px;
+        }
+    }
+    
+    @media (max-width:1024px) {
+        .imagensloja1 img {
+            width: 140px;
+            height: 140px;
+        }
+        .imagensloja2 img {
+            width: 140px;
+            height: 140px;
+        }
+    }
+    
+    @media (max-width:425px) {
+        .area1 {
+            display: block;
+        }
+        .barranome h1 {
+            font-size: 35px;
+        }
+        .container0 {
+            height: 80px;
+        }
+        .areamapa2 {
+            margin-bottom: 0;
+            padding-bottom: 150px;
+        }
+        .icones--redes img {
+            width: 30px;
+        }
+        .corpy {
+            text-align: -webkit-center;
+        }
+    }
+    
+    @media (max-width:320px) {
+        .redes--sociais h2,
+        .pagina--site h2 {
+            font-size: 20px;
+        }
+        .icones--redes img {
+            width: 15px;
+        }
+        .barra {
+            width: 80px;
+        }
+        .pagina--site a {
+            font-size: 12px;
+        }
+    }
+    
+    @media (max-width:768px) {
+        .area1 {
+            display: block;
+            text-align: center;
+        }
+        .tracotexto,
+        .tracotexto2 {
+            margin: auto;
+        }
+        .telefone1,
+        .telefone2 {
+            display: block;
+        }
+    }
